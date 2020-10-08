@@ -18,7 +18,7 @@
     "@angular/forms": "~9.0.0-rc.9",
     "@angular/platform-browser": "~9.0.0-rc.9",
     "@angular/platform-browser-dynamic": "~9.0.0-rc.9",
-    "@angular/pwa": "^0.803.25",
+    "@angular/pwa": "^0.1001.5",
     "@angular/router": "~9.0.0-rc.9",
     "@angular/service-worker": "~9.0.0-rc.9",
     "rxjs": "~6.5.4",
